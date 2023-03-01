@@ -7,4 +7,5 @@ In short, BlurHash takes an image, and gives you a short string (only 20-30 char
 ## Perfomance
 The CPU version takes about 13 seconds for an image of size 725x900 with xComponents and yComponents as 8 and 8 where as the GPU version takes around 3.5 seconds for the same.
 
-Source for CPU version: https://github.com/woltapp/blurhash
+## Source for CPU implementation
+https://github.com/woltapp/blurhash
